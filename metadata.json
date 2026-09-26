@@ -1,0 +1,6 @@
+{
+  "name": "Aura Money - Monthly Financial Ledger",
+  "description": "High-precision personal financial ledger with envelope budgeting, daily spending velocity, cash vs online tracking, and PDF statement export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
